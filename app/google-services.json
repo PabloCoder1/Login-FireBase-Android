@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251616407940",
+    "project_id": "appfirebase-295f0",
+    "storage_bucket": "appfirebase-295f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251616407940:android:2b665810d876b38f0e2dd1",
+        "android_client_info": {
+          "package_name": "br.com.unisanta.appsanta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJaFQ5vIP9lKjhH2tjcVF1AnaTBNCrkK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
